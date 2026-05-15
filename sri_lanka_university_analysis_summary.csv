@@ -1,0 +1,10 @@
+district,population_density,youth_population,served_by_university,good_road_access,suitability_score,suitability_rank
+Colombo,2500,450000,True,True,1.0,1.0
+Gampaha,1800,380000,True,True,0.8366666666666667,2.0
+Kandy,1200,220000,True,True,0.6133333333333333,3.0
+Jaffna,800,120000,True,True,0.47,5.0
+Galle,950,180000,True,True,0.5425,4.0
+Ampara,600,90000,False,False,0.415,6.0
+Badulla,400,75000,False,False,0.37250000000000005,7.0
+Mannar,300,50000,False,False,0.3366666666666666,9.0
+Monaragala,350,60000,False,False,0.35250000000000004,8.0
